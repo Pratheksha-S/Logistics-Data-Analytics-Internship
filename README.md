@@ -9,21 +9,7 @@ Weekly deliverables from a Logistics Data Analyst internship (Yuva Intern / NSDC
 | 1 | Strategic planning for logistics operations | `Week1_Logistics_Strategic_Planning_Report.docx` | — |
 | 2 | Data collection, cleaning, and preprocessing | *(covered in code)* | `Week2_data_cleaning.py` |
 | 3 | Exploratory data analysis and visualization | `Week3_Logistics_Data_Analysis_Report.docx` | `01_simulate_data.py`, `02_eda.py`, `03_visualizations.py` |
-| 4 | Predictive modeling and optimization | `Week4_Predictive_Modeling_Optimization_Report.docx` | *(see Week 4 section below)* |
-
-## Repository structure
-
-```
-├── README.md
-├── Week1_Logistics_Strategic_Planning_Report.docx
-├── Week2_data_cleaning.py
-├── Week3_Logistics_Data_Analysis_Report.docx
-├── Week4_Predictive_Modeling_Optimization_Report.docx
-├── 01_simulate_data.py
-├── 02_eda.py
-├── 03_visualizations.py
-└── logistics_dataset.csv
-```
+| 4 | Predictive modeling and optimization | `Week4_Predictive_Modeling_Optimization_Report.docx` | *(see in files.zip)* |
 
 ## Week 1 — Strategic Planning
 
